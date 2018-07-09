@@ -2,7 +2,8 @@
 .DS_Store
 
 # build files
-build/
+build/*
+!build/.gitkeep
 
 # editor config
 .vscode/
